@@ -175,3 +175,9 @@ git log --pretty=format:"%h %cd - %an : %s"
 ```
 
 ![last](https://github.com/Gauliux/half-interval/assets/158781390/af3adf7f-aeed-4c88-ae9b-436c950bd7e9)
+
+```sh
+git log origin/report --pretty=format:"%h %cd - %an : %s"
+```
+
+![lastlast](https://github.com/Gauliux/half-interval/assets/158781390/97d8e269-87b5-4b0c-a8a0-8e88bcf935bd)
