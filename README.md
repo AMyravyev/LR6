@@ -45,3 +45,4 @@
 ![21](https://github.com/Gauliux/half-interval/assets/158781390/c24ce696-62b7-4593-83d5-fc0d513bce40)
 ![last](https://github.com/Gauliux/half-interval/assets/158781390/af3adf7f-aeed-4c88-ae9b-436c950bd7e9)
 ![reg](https://github.com/Gauliux/half-interval/assets/158781390/93670a06-f981-4beb-a5ff-fda04a0f2de6)
+![fork](https://github.com/Gauliux/half-interval/assets/158781390/a7e3c898-81ec-442a-a883-f73cec1f673a)
